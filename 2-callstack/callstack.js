@@ -5,3 +5,7 @@
 // call stack
 // - Whatever is top of the call stack - that’s the
 // function we’re currently running
+
+for (let index = 0; index < array.length; index++) {
+  const element = array[index];
+}
